@@ -1,0 +1,10 @@
+c:\users\mario\documents\visual studio 2010\Projects\BajarAndroid\BajarAndroid\bin\Debug\BajarAndroid.exe
+c:\users\mario\documents\visual studio 2010\Projects\BajarAndroid\BajarAndroid\bin\Debug\BajarAndroid.pdb
+c:\users\mario\documents\visual studio 2010\Projects\BajarAndroid\BajarAndroid\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2010\Projects\BajarAndroid\BajarAndroid\obj\x86\Debug\BajarAndroid.exe
+c:\users\mario\documents\visual studio 2010\Projects\BajarAndroid\BajarAndroid\obj\x86\Debug\BajarAndroid.pdb
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\BajarAndroid\BajarAndroid\obj\x86\Debug\BajarAndroid.exe
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\BajarAndroid\BajarAndroid\obj\x86\Debug\BajarAndroid.pdb
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\BajarAndroid\BajarAndroid\bin\Debug\BajarAndroid.exe
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\BajarAndroid\BajarAndroid\bin\Debug\BajarAndroid.pdb
+C:\Users\MBrandle\Documents\Visual Studio 2010\Projects\BajarAndroid\BajarAndroid\obj\x86\Debug\BajarAndroid.csprojResolveAssemblyReference.cache
